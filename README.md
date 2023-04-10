@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/hh.ru-blue?style=for-the-badge&logo=hh&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
