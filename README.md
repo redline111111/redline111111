@@ -20,4 +20,5 @@
 <div align="center">
   <img src="https://media.giphy.com/media/L3Vca26EaTIEU/giphy.gif" width="600" height="300"/>
 </div>
-### :woman_technologist: About Me :
+
+### :man_technologist: About Me :
