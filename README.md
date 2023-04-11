@@ -16,3 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-redline111111&style=flat-square&color=blue" alt=""/>
   <h1> Hi there 👋</h1>
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/zgduo4kWRRDVK/giphy.gif" width="600" height="300"/>
+</div>
