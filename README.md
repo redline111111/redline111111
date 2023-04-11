@@ -21,7 +21,8 @@
   <img src="https://media.giphy.com/media/L3Vca26EaTIEU/giphy.gif" width="600" height="300"/>
 </div>
 
---- ### :man_technologist: About Me :
+--- 
+### :man_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - :telescope: I’m find a job as a Software Engineer and contributing to frontend (maybe backend) for building web applications.
