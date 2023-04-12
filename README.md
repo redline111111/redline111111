@@ -3,7 +3,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="100"/>
   <div id="badges">
-
     <a href="your-youtube-URL">
       <img src="https://img.shields.io/badge/headhunter-red?style=for-the-badge&logo=headhunter&logoColor=white" alt="headhunter Badge"/>
     </a>
