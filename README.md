@@ -3,10 +3,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="your-youtube-URL">
+    <a href="https://yakutsk.hh.ru/resume/4b9d2466ff09b246460039ed1f374550446576">
       <img src="https://img.shields.io/badge/headhunter-red?style=for-the-badge&logo=headhunter&logoColor=white" alt="headhunter Badge"/>
     </a>
-    <a href="your-twitter-URL">
+    <a href="https://t.me/redline111111">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
