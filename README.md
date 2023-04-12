@@ -28,7 +28,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/redline111111)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
